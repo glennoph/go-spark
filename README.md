@@ -16,8 +16,11 @@ See http://spark.apache.org
 ## Installing Spark
 
 * Install via sdk or download binary
-Suggest sdk. Binary install ...
+Suggest sdk. Binary install see https://datawookie.netlify.com/blog/2017/07/installing-spark-on-ubuntu/ 
 * Requires Java8
-* IDEs: Scala
+* IDEs: 
+  - Scala IDE (based on Eclipse)
+  - Intellij
+
 
 
